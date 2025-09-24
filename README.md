@@ -6,6 +6,8 @@ I primarily do web development with PHP, MYSQL and HTML/CSS frontend including B
 
 I am also working on C/C++ development for use in embedded systems
 
+I have an interest in networking & infrastructure and run a number of different projects from my home server
+
 <!--
 **ecrichton0/ecrichton0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
