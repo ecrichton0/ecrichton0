@@ -1,4 +1,10 @@
-## Hi there 👋
+Hey i'm Ewan!
+
+I'm a second year Electronic Systems Engineering student at Conestoga College
+
+I primarily do web development with PHP, MYSQL and HTML/CSS frontend including Bootstrap
+
+I am also working on C/C++ development for use in embedded systems
 
 <!--
 **ecrichton0/ecrichton0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
